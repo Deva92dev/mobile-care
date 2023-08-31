@@ -1,0 +1,4 @@
+{
+  "editor.acceptSuggestionOnEnter": "on",
+  "prisma-smart-formatter.prisma.defaultFormatter": "Prisma.prisma"
+}
